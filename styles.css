@@ -1,0 +1,25 @@
+#contenedor {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#tituloPrincipal {
+    text-align: center;
+}
+
+#informacion {
+    display: flex;
+    font-size: 13px;
+}
+#datosLibro {
+    width: 950px;
+    margin-right: 20px;
+}
+
+#contenidoLibro {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    gap: 30px;
+
+}
